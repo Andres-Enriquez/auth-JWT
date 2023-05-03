@@ -1,0 +1,5 @@
+node_modules/
+# dotenv environment variables file
+.env
+# Yarn Integrity file
+.yarn-integrity
